@@ -1,4 +1,5 @@
 class dog 
   
-  Dog 
+  Dog_name = this_dogs_name 
+  
 end 
