@@ -1,4 +1,4 @@
-class dog 
+class Dog 
   
   def name 
   Dog_name = Dog.new 
