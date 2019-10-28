@@ -1,5 +1,5 @@
 class dog 
-  Dog 
+  
   end 
   
   def name 
